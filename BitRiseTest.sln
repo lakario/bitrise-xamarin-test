@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigyaSDK.iOS.SampleApp", "GigyaSDK.iOS.SampleApp\GigyaSDK.iOS.SampleApp.csproj", "{06AADB0E-DC40-4ACF-8A04-2D26320BA4C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigyaSDK.iOS.Binding", "GigyaSDK.iOS.Binding\GigyaSDK.iOS.Binding.csproj", "{1A5A55FD-927C-4EE3-8A2B-48736572A47B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".empty", ".empty", "{3A6692E3-6BD9-4517-888A-58181ECEBDF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06AADB0E-DC40-4ACF-8A04-2D26320BA4C4}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{06AADB0E-DC40-4ACF-8A04-2D26320BA4C4}.Debug|iPhone.Build.0 = Debug|iPhone
+		{06AADB0E-DC40-4ACF-8A04-2D26320BA4C4}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{06AADB0E-DC40-4ACF-8A04-2D26320BA4C4}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{06AADB0E-DC40-4ACF-8A04-2D26320BA4C4}.Release|iPhone.ActiveCfg = Release|iPhone
+		{06AADB0E-DC40-4ACF-8A04-2D26320BA4C4}.Release|iPhone.Build.0 = Release|iPhone
+		{06AADB0E-DC40-4ACF-8A04-2D26320BA4C4}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{06AADB0E-DC40-4ACF-8A04-2D26320BA4C4}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{1A5A55FD-927C-4EE3-8A2B-48736572A47B}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{1A5A55FD-927C-4EE3-8A2B-48736572A47B}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{1A5A55FD-927C-4EE3-8A2B-48736572A47B}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{1A5A55FD-927C-4EE3-8A2B-48736572A47B}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{1A5A55FD-927C-4EE3-8A2B-48736572A47B}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{1A5A55FD-927C-4EE3-8A2B-48736572A47B}.Release|iPhone.Build.0 = Release|Any CPU
+		{1A5A55FD-927C-4EE3-8A2B-48736572A47B}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{1A5A55FD-927C-4EE3-8A2B-48736572A47B}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
